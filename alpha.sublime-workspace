@@ -1,0 +1,208 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sw",
+				"switch"
+			],
+			[
+				"i",
+				"if\tif"
+			],
+			[
+				"Sti",
+				"String"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"pu",
+				"public"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/shyam/Desktop/Java Programs/Largest.java",
+		"/home/shyam/Desktop/Java Programs/vowel.java",
+		"/home/shyam/Desktop/Java Programs/Main.java",
+		"/home/shyam/Desktop/Java Programs/got.java",
+		"/home/shyam/Desktop/Java Programs/swap.java",
+		"/home/shyam/Desktop/Java Programs/contacts.java",
+		"/home/shyam/Desktop/Java Programs/Done.java",
+		"/home/shyam/Desktop/Java Programs/new.java",
+		"/home/shyam/Desktop/Java Programs/Circle.java",
+		"/home/shyam/Desktop/Java Programs/Input.java",
+		"/home/shyam/Desktop/Java Programs/Loo.java",
+		"/home/shyam/Desktop/Java Programs/Loop.java",
+		"/home/shyam/Desktop/Java Programs/Area.java",
+		"/home/shyam/Desktop/Java Programs/Areas.java",
+		"/home/shyam/Desktop/Java Programs/Sum.java",
+		"/home/shyam/Desktop/Java Programs/HelloWorld.java",
+		"/home/shyam/Desktop/project phones/1stpage.html",
+		"/home/shyam/Desktop/hello.py",
+		"/home/shyam/Desktop/check.java",
+		"/home/shyam/Desktop/AllGenesStored.java",
+		"/home/shyam/Desktop/publicAbc.java",
+		"/home/shyam/Desktop/hello.java",
+		"/home/shyam/Desktop/Input.java",
+		"/home/shyam/Desktop/first.java"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "alpha.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
