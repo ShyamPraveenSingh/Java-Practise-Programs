@@ -9,3 +9,4 @@ class Circle{
 	input.close();
 	}
 }
+
